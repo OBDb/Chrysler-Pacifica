@@ -118,3 +118,5 @@ supported_commands_by_ecu:
 unsupported_commands_by_ecu:
   6B4:
   - 6B4.694.22D410
+  7F1:
+  - 7F1.2240B2
