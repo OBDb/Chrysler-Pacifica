@@ -1,0 +1,86 @@
+command_id: 740.4C0.22A0F2|fc=1
+test_cases:
+- expected_values:
+    CHRYSLER_TP_FR_V2: 29.054
+    CHRYSLER_TT_FR_V2: 30
+  response: |-
+    4C0100862A0F249503C
+    4C0210BDDA0F249503C
+- expected_values:
+    CHRYSLER_TP_FR_V2: 29.054
+    CHRYSLER_TT_FR_V2: 30
+  response: |-
+    4C0100862A0F2495073
+    4C0210ADFA0F2495073
+- expected_values:
+    CHRYSLER_TP_FR_V2: 29.85
+    CHRYSLER_TT_FR_V2: 31
+  response: |-
+    4C0100862A0F24B510A
+    4C02103DCA0F24B510A
+- expected_values:
+    CHRYSLER_TP_FR_V2: 31.84
+    CHRYSLER_TT_FR_V2: 13
+  response: |-
+    4C0100862A0F2503F0D
+    4C02103DDA0F2503F0D
+- expected_values:
+    CHRYSLER_TP_FR_V2: 31.84
+    CHRYSLER_TT_FR_V2: 31
+  response: |-
+    4C0100862A0F250510F
+    4C0210BDDA0F250510F
+- expected_values:
+    CHRYSLER_TP_FR_V2: 33.034
+    CHRYSLER_TT_FR_V2: 21
+  response: |-
+    4C0100862A0F25347FF
+    4C0210BDDA0F25347FF
+- expected_values:
+    CHRYSLER_TP_FR_V2: 33.034
+    CHRYSLER_TT_FR_V2: 38
+  response: |-
+    4C0100862A0F2535810
+    4C02103DCA0F2535810
+- expected_values:
+    CHRYSLER_TP_FR_V2: 34.228
+    CHRYSLER_TT_FR_V2: 26
+  response: |-
+    4C0100862A0F2564C21
+    4C021C3DCA0F2564C21
+- expected_values:
+    CHRYSLER_TP_FR_V2: 34.228
+    CHRYSLER_TT_FR_V2: 31
+  response: |-
+    4C0100862A0F2565101
+    4C02183DCA0F2565101
+- expected_values:
+    CHRYSLER_TP_FR_V2: 34.228
+    CHRYSLER_TT_FR_V2: 45
+  response: |-
+    4C0100862A0F2565FFF
+    4C0210BDCA0F2565FFF
+- expected_values:
+    CHRYSLER_TP_FR_V2: 34.626
+    CHRYSLER_TT_FR_V2: 30
+  response: |-
+    4C0100862A0F2575009
+    4C02103DDA0F2575009
+- expected_values:
+    CHRYSLER_TP_FR_V2: 34.626
+    CHRYSLER_TT_FR_V2: 51
+  response: |-
+    4C0100862A0F2576516
+    4C021C3DCA0F2576516
+- expected_values:
+    CHRYSLER_TP_FR_V2: 36.218
+    CHRYSLER_TT_FR_V2: 39
+  response: |-
+    4C0100862A0F25B596E
+    4C021C1DCA0F25B596E
+- expected_values:
+    CHRYSLER_TP_FR_V2: 37.81
+    CHRYSLER_TT_FR_V2: 46
+  response: |-
+    4C0100862A0F25F6018
+    4C021C3DCA0F25F6018
