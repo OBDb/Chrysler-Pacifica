@@ -1,0 +1,86 @@
+command_id: 740.4C0.22A0F3|fc=1
+test_cases:
+- expected_values:
+    CHRYSLER_TP_RR_V2: 33.034
+    CHRYSLER_TT_RR_V2: 13
+  response: |-
+    4C0100862A0F3533F0B
+    4C02103DCA0F3533F0B
+- expected_values:
+    CHRYSLER_TP_RR_V2: 33.034
+    CHRYSLER_TT_RR_V2: 13
+  response: |-
+    4C0100862A0F3533F0D
+    4C0210BDFA0F3533F0D
+- expected_values:
+    CHRYSLER_TP_RR_V2: 33.034
+    CHRYSLER_TT_RR_V2: 13
+  response: |-
+    4C0100862A0F3533F60
+    4C0210BDEA0F3533F60
+- expected_values:
+    CHRYSLER_TP_RR_V2: 33.034
+    CHRYSLER_TT_RR_V2: 14
+  response: |-
+    4C0100862A0F35340AF
+    4C0210BDEA0F35340AF
+- expected_values:
+    CHRYSLER_TP_RR_V2: 34.228
+    CHRYSLER_TT_RR_V2: 19
+  response: |-
+    4C0100862A0F35645FF
+    4C0210BDDA0F35645FF
+- expected_values:
+    CHRYSLER_TP_RR_V2: 35.024
+    CHRYSLER_TT_RR_V2: 23
+  response: |-
+    4C0100862A0F358495C
+    4C021C3DCA0F358495C
+- expected_values:
+    CHRYSLER_TP_RR_V2: 35.024
+    CHRYSLER_TT_RR_V2: 26
+  response: |-
+    4C0100862A0F3584C01
+    4C02183DCA0F3584C01
+- expected_values:
+    CHRYSLER_TP_RR_V2: 35.024
+    CHRYSLER_TT_RR_V2: 26
+  response: |-
+    4C0100862A0F3584C0D
+    4C021C2DCA0F3584C0D
+- expected_values:
+    CHRYSLER_TP_RR_V2: 35.82
+    CHRYSLER_TT_RR_V2: 29
+  response: |-
+    4C0100862A0F35A4FEC
+    4C0210BDFA0F35A4FEC
+- expected_values:
+    CHRYSLER_TP_RR_V2: 35.82
+    CHRYSLER_TT_RR_V2: 30
+  response: |-
+    4C0100862A0F35A5008
+    4C02103DCA0F35A5008
+- expected_values:
+    CHRYSLER_TP_RR_V2: 37.81
+    CHRYSLER_TT_RR_V2: 39
+  response: |-
+    4C0100862A0F35F590A
+    4C02102DCA0F35F590A
+- expected_values:
+    CHRYSLER_TP_RR_V2: 37.81
+    CHRYSLER_TT_RR_V2: 44
+  response: |-
+    4C0100862A0F35F5EFF
+    4C021C3DCA0F35F5EFF
+- expected_values:
+    CHRYSLER_TP_RR_V2: 38.208
+    CHRYSLER_TT_RR_V2: 37
+  response: |-
+    4C0100862A0F36057AD
+    4C0210BDEA0F36057AD
+- expected_values:
+    CHRYSLER_TP_RR_V2: 39.004
+    CHRYSLER_TT_RR_V2: 42
+  response: |-
+    4C0100862A0F3625C1D
+    4C021C3DCA0F3625C1D
