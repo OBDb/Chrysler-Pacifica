@@ -1,0 +1,20 @@
+command_id: 740.4C0.22A0F3|fc=1
+test_cases:
+- expected_values:
+    CHRYSLER_TP_RR_V2: 29.054
+    CHRYSLER_TT_RR_V2: 14
+  response: |-
+    4C0100862A0F349401A
+    4C0210BDFA0F349401A
+- expected_values:
+    CHRYSLER_TP_RR_V2: 29.054
+    CHRYSLER_TT_RR_V2: 15
+  response: |-
+    4C0100862A0F349411D
+    4C0210BDDA0F349411D
+- expected_values:
+    CHRYSLER_TP_RR_V2: 29.054
+    CHRYSLER_TT_RR_V2: 15
+  response: |-
+    4C0100862A0F3494129
+    4C0210BDCA0F3494129
