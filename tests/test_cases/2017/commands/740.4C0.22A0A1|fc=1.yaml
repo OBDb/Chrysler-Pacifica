@@ -1,0 +1,10 @@
+command_id: 740.4C0.22A0A1|fc=1
+test_cases:
+- expected_values:
+    CHRYSLER_TP_FL_AC: 39
+    CHRYSLER_TP_FR_AC: 35
+    CHRYSLER_TP_RL_AC: 37
+    CHRYSLER_TP_RR_AC: 32
+  response: |-
+    4C0100962A0A1272320
+    4C02125000EA1272320
