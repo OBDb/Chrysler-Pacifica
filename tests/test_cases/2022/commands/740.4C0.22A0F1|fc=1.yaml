@@ -35,7 +35,7 @@ test_cases:
     CHRYSLER_TT_FL_V2: 2
   response: |-
     4C0100862A0F1483410
-    4C0210BDEA0F1483410
+    4C02103DFA0F1483410
 - expected_values:
     CHRYSLER_TP_FL_V2: 30.248
     CHRYSLER_TT_FL_V2: 8
