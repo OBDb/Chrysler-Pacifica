@@ -3,11 +3,11 @@ test_cases:
 - expected_values:
     CHRYSLER_TP_FL_AC: 27
     CHRYSLER_TP_FR_AC: 27
-    CHRYSLER_TP_RL_AC: 29
+    CHRYSLER_TP_RL_AC: 28
     CHRYSLER_TP_RR_AC: 28
   response: |-
     4C0100962A0A11B1B1C
-    4C0211D000EA11B1B1C
+    4C0211C000EA11B1B1C
 - expected_values:
     CHRYSLER_TP_FL_AC: 29
     CHRYSLER_TP_FR_AC: 28
