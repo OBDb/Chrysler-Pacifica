@@ -19,6 +19,14 @@ test_cases:
 - expected_values:
     CHRYSLER_TP_FL_AC: 29
     CHRYSLER_TP_FR_AC: 29
+    CHRYSLER_TP_RL_AC: 30
+    CHRYSLER_TP_RR_AC: 30
+  response: |-
+    4C0100962A0A11D1D1E
+    4C0211E000FA11D1D1E
+- expected_values:
+    CHRYSLER_TP_FL_AC: 29
+    CHRYSLER_TP_FR_AC: 29
     CHRYSLER_TP_RL_AC: 29
     CHRYSLER_TP_RR_AC: 31
   response: |-
@@ -32,14 +40,6 @@ test_cases:
   response: |-
     4C0100962A0A11D1D20
     4C0211E000EA11D1D20
-- expected_values:
-    CHRYSLER_TP_FL_AC: 29
-    CHRYSLER_TP_FR_AC: 30
-    CHRYSLER_TP_RL_AC: 31
-    CHRYSLER_TP_RR_AC: 30
-  response: |-
-    4C0100962A0A11D1E1E
-    4C0211F000FA11D1E1E
 - expected_values:
     CHRYSLER_TP_FL_AC: 29
     CHRYSLER_TP_FR_AC: 31
