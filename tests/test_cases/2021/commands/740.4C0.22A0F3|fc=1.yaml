@@ -36,3 +36,9 @@ test_cases:
   response: |-
     4C0100862A0F34D4B01
     4C02182DCA0F34D4B01
+- expected_values:
+    CHRYSLER_TP_RR_V2: 35.82
+    CHRYSLER_TT_RR_V2: 12
+  response: |-
+    4C0100862A0F35A3E01
+    4C02183DCA0F35A3E01
