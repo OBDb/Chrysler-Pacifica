@@ -26,3 +26,9 @@ test_cases:
   response: |-
     4E3100862032D081000
     4E3210010032D081000
+- expected_values:
+    CHRYSLER_HIGHBEAMS_ON: 0
+    CHRYSLER_REAR_WIPER: 'OFF'
+  response: |-
+    4E3100862032D082000
+    4E3210010032D082000
