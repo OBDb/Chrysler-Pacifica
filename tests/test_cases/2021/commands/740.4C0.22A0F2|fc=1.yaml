@@ -38,12 +38,6 @@ test_cases:
     4C0210BDFA0F25A3C10
 - expected_values:
     CHRYSLER_TP_FR_V2: 35.82
-    CHRYSLER_TT_FR_V2: 12
-  response: |-
-    4C0100862A0F25A3EAF
-    4C0210BDCA0F25A3EAF
-- expected_values:
-    CHRYSLER_TP_FR_V2: 35.82
     CHRYSLER_TT_FR_V2: 13
   response: |-
     4C0100862A0F25A3F4B
@@ -60,6 +54,12 @@ test_cases:
   response: |-
     4C0100862A0F25B404E
     4C021C3DCA0F25B404E
+- expected_values:
+    CHRYSLER_TP_FR_V2: 36.218
+    CHRYSLER_TT_FR_V2: 15
+  response: |-
+    4C0100862A0F25B41BD
+    4C0210BDEA0F25B41BD
 - expected_values:
     CHRYSLER_TP_FR_V2: 37.014
     CHRYSLER_TT_FR_V2: 16
