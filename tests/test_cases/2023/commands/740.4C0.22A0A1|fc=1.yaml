@@ -1,6 +1,22 @@
 command_id: 740.4C0.22A0A1|fc=1
 test_cases:
 - expected_values:
+    CHRYSLER_TP_FL_AC: 38
+    CHRYSLER_TP_FR_AC: 38
+    CHRYSLER_TP_RL_AC: 38
+    CHRYSLER_TP_RR_AC: 35
+  response: |-
+    4C0100962A0A1262623
+    4C02126000EA1262623
+- expected_values:
+    CHRYSLER_TP_FL_AC: 38
+    CHRYSLER_TP_FR_AC: 38
+    CHRYSLER_TP_RL_AC: 38
+    CHRYSLER_TP_RR_AC: 35
+  response: |-
+    4C0100962A0A1262623
+    4C02126000FA1262623
+- expected_values:
     CHRYSLER_TP_FL_AC: 40
     CHRYSLER_TP_FR_AC: 40
     CHRYSLER_TP_RL_AC: 39
