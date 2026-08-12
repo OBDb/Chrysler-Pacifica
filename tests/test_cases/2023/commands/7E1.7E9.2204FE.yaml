@@ -4,5 +4,5 @@ test_cases:
     CHRYSLER_ATF_T: 80.6
   response: 7E9046204FE43
 - expected_values:
-    CHRYSLER_ATF_T: 188.6
-  response: 7E9046204FE7F
+    CHRYSLER_ATF_T: 203
+  response: 7E9046204FE87
