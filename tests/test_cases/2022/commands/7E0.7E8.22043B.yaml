@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22043B
+test_cases:
+- expected_values:
+    CHRYSLER_ODO: 76873.728
+  response: 7E80562043B24A8
+- expected_values:
+    CHRYSLER_ODO: 76881.92
+  response: 7E80562043B24A9
