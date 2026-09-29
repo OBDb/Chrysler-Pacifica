@@ -4,5 +4,5 @@ test_cases:
     CHRYSLER_CHG_AIR_T: 62.8
   response: '7E80462125051'
 - expected_values:
-    CHRYSLER_CHG_AIR_T: 113.2
-  response: 7E8046212506D
+    CHRYSLER_CHG_AIR_T: 127.6
+  response: '7E80462125075'
