@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22012B
+test_cases:
+- expected_values:
+    CHRYSLER_CAT_MODEL_T: 171
+  response: 7E80562012B01EB
+- expected_values:
+    CHRYSLER_CAT_MODEL_T: -64
+  response: 7E80562012B0200
+- expected_values:
+    CHRYSLER_CAT_MODEL_T: 191
+  response: 7E80562012B02FF
+- expected_values:
+    CHRYSLER_CAT_MODEL_T: -63
+  response: 7E80562012B0301
