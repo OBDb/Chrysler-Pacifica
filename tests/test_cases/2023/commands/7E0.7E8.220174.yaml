@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220174
+test_cases:
+- expected_values:
+    CHRYSLER_MAP: 19.4
+  response: '7E8056201740061'
+- expected_values:
+    CHRYSLER_MAP: 50
+  response: 7E80562017400FA
+- expected_values:
+    CHRYSLER_MAP: 51.6
+  response: '7E8056201740102'

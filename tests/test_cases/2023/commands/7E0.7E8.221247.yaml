@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221247
+test_cases:
+- expected_values:
+    CHRYSLER_THROTTLE_INLET_P: 98.23125
+  response: 7E8056212473D65
+- expected_values:
+    CHRYSLER_THROTTLE_INLET_P: 99.19375
+  response: 7E8056212473DFF
+- expected_values:
+    CHRYSLER_THROTTLE_INLET_P: 99.20625
+  response: 7E8056212473E01
