@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     CHRYSLER_DPF_REGENS_18E7: 211
   response: 7E8056218E700D3
+- expected_values:
+    CHRYSLER_DPF_REGENS_18E7: 212
+  response: 7E8056218E700D4
