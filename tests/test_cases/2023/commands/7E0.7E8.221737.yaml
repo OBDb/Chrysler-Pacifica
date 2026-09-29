@@ -4,8 +4,8 @@ test_cases:
     CHRYSLER_FL_WHL_SPD: 0
   response: '7E8056217370000'
 - expected_values:
-    CHRYSLER_FL_WHL_SPD: 91.9375
-  response: 7E80562173716FC
+    CHRYSLER_FL_WHL_SPD: 83.9375
+  response: 7E80562173714FC
 - expected_values:
     CHRYSLER_FL_WHL_SPD: 105.5625
   response: 7E8056217371A64

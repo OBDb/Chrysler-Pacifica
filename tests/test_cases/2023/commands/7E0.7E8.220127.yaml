@@ -12,3 +12,18 @@ test_cases:
 - expected_values:
     CHRYSLER_AAT: 64.6
   response: '7E80462012752'
+- expected_values:
+    CHRYSLER_AAT: 70
+  response: '7E80462012755'
+- expected_values:
+    CHRYSLER_AAT: 75.4
+  response: '7E80462012758'
+- expected_values:
+    CHRYSLER_AAT: 77.2
+  response: '7E80462012759'
+- expected_values:
+    CHRYSLER_AAT: 79
+  response: 7E8046201275A
+- expected_values:
+    CHRYSLER_AAT: 80.8
+  response: 7E8046201275B

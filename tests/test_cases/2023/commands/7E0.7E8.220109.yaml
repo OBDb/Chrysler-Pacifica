@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     CHRYSLER_BAROMETRIC_P: 144.13
   response: 7E80562010901F1
+- expected_values:
+    CHRYSLER_BAROMETRIC_P: 144.42
+  response: 7E80562010901F2
+- expected_values:
+    CHRYSLER_BAROMETRIC_P: 145
+  response: 7E80562010901F4
