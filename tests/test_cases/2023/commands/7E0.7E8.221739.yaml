@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221739
+test_cases:
+- expected_values:
+    CHRYSLER_RL_WHL_SPD: 0
+  response: '7E8056217390000'
+- expected_values:
+    CHRYSLER_RL_WHL_SPD: 27.9375
+  response: 7E80562173906FC
+- expected_values:
+    CHRYSLER_RL_WHL_SPD: 105.0625
+  response: 7E8056217391A44

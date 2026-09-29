@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220236
+test_cases:
+- expected_values:
+    CHRYSLER_INJ_WIDTH_CYL_3: 0
+  response: '7E80762023600000000'
+- expected_values:
+    CHRYSLER_INJ_WIDTH_CYL_3: 2.032
+  response: 7E807620236000007F0
+- expected_values:
+    CHRYSLER_INJ_WIDTH_CYL_3: 9.744
+  response: '7E80762023600002610'
