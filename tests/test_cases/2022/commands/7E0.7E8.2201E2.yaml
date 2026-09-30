@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     CHRYSLER_DPF_SIM_MASS: 0.06
   response: 7E8056201E20006
+- expected_values:
+    CHRYSLER_DPF_SIM_MASS: 0.07
+  response: 7E8056201E20007
