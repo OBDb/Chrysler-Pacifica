@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220944
 test_cases:
 - expected_values:
-    CHRYSLER_BRAKE_BOOSTER_P: 54.8
-  response: '7E8056209441568'
+    CHRYSLER_BRAKE_BOOSTER_P: 53.7
+  response: 7E80562094414FA
 - expected_values:
     CHRYSLER_BRAKE_BOOSTER_P: 69.1
   response: 7E8056209441AFE
