@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22011D
+test_cases:
+- expected_values:
+    PACIFICA_ECT: 85
+  response: 7E80462011D95
+- expected_values:
+    PACIFICA_ECT: 86
+  response: 7E80462011D96
+- expected_values:
+    PACIFICA_ECT: 87
+  response: 7E80462011D97
+- expected_values:
+    PACIFICA_ECT: 88
+  response: 7E80462011D98
+- expected_values:
+    PACIFICA_ECT: 89
+  response: 7E80462011D99
+- expected_values:
+    PACIFICA_ECT: 90
+  response: 7E80462011D9A
