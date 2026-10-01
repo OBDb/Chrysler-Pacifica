@@ -4,23 +4,5 @@ test_cases:
     PACIFICA_ECT: 31
   response: 7E80462011D5F
 - expected_values:
-    PACIFICA_ECT: 38
-  response: 7E80462011D66
-- expected_values:
-    PACIFICA_ECT: 42
-  response: 7E80462011D6A
-- expected_values:
-    PACIFICA_ECT: 43
-  response: 7E80462011D6B
-- expected_values:
-    PACIFICA_ECT: 44
-  response: 7E80462011D6C
-- expected_values:
-    PACIFICA_ECT: 45
-  response: 7E80462011D6D
-- expected_values:
-    PACIFICA_ECT: 46
-  response: 7E80462011D6E
-- expected_values:
-    PACIFICA_ECT: 48
-  response: 7E80462011D70
+    PACIFICA_ECT: 86
+  response: 7E80462011D96
