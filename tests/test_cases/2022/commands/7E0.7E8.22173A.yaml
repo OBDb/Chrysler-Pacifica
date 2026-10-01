@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22173A
 test_cases:
 - expected_values:
-    CHRYSLER_RR_WHL_SPD: 0
+    PACIFICA_RR_WHL_SPD: 0
   response: 7E80562173A0000
 - expected_values:
-    CHRYSLER_RR_WHL_SPD: 3.9375
+    PACIFICA_RR_WHL_SPD: 4.28854
   response: 7E80562173A00FC
 - expected_values:
-    CHRYSLER_RR_WHL_SPD: 120.9375
+    PACIFICA_RR_WHL_SPD: 131.71932
   response: 7E80562173A1E3C

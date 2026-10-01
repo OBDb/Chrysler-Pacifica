@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2206C2
 test_cases:
 - expected_values:
-    CHRYSLER_INT_CAM_1_OFFSET: 0.2
+    PACIFICA_INT_CAM_1_OFFSET: 0.2
   response: 7E8056206C20002
 - expected_values:
-    CHRYSLER_INT_CAM_1_OFFSET: 25.6
+    PACIFICA_INT_CAM_1_OFFSET: 25.6
   response: 7E8056206C20100
 - expected_values:
-    CHRYSLER_INT_CAM_1_OFFSET: -0.2
+    PACIFICA_INT_CAM_1_OFFSET: -0.2
   response: 7E8056206C2FFFE
 - expected_values:
-    CHRYSLER_INT_CAM_1_OFFSET: -0.1
+    PACIFICA_INT_CAM_1_OFFSET: -0.1
   response: 7E8056206C2FFFF

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22022A
 test_cases:
 - expected_values:
-    CHRYSLER_EOP: 21.46
+    PACIFICA_EOP: 21.46559
   response: 7E80462022A25
 - expected_values:
-    CHRYSLER_EOP: 79.46
+    PACIFICA_EOP: 79.48069
   response: 7E80462022A89

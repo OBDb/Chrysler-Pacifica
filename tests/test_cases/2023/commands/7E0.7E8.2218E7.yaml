@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2218E7
 test_cases:
 - expected_values:
-    CHRYSLER_DPF_REGENS_18E7: 210
+    PACIFICA_DPF_REGENS_18E7: 210
   response: 7E8056218E700D2
 - expected_values:
-    CHRYSLER_DPF_REGENS_18E7: 211
+    PACIFICA_DPF_REGENS_18E7: 211
   response: 7E8056218E700D3
 - expected_values:
-    CHRYSLER_DPF_REGENS_18E7: 212
+    PACIFICA_DPF_REGENS_18E7: 212
   response: 7E8056218E700D4

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2201E2
 test_cases:
 - expected_values:
-    CHRYSLER_DPF_SIM_MASS: 0
+    PACIFICA_DPF_SIM_MASS: 0
   response: 7E8056201E20000
 - expected_values:
-    CHRYSLER_DPF_SIM_MASS: 0.12
+    PACIFICA_DPF_SIM_MASS: 0.12
   response: 7E8056201E2000C
