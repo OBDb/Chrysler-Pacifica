@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22114B
+test_cases:
+- expected_values:
+    PACIFICA_ACCEL_PEDAL_POS: 7.45098
+  response: 7E80462114B13
+- expected_values:
+    PACIFICA_ACCEL_PEDAL_POS: 7.84314
+  response: 7E80462114B14
