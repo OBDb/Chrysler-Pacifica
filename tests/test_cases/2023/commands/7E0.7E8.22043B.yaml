@@ -4,29 +4,5 @@ test_cases:
     PACIFICA_ODO_V2: 78839.808
   response: 7E80562043B2598
 - expected_values:
-    PACIFICA_ODO_V2: 78848
-  response: 7E80562043B2599
-- expected_values:
-    PACIFICA_ODO_V2: 78856.192
-  response: 7E80562043B259A
-- expected_values:
-    PACIFICA_ODO_V2: 78864.384
-  response: 7E80562043B259B
-- expected_values:
-    PACIFICA_ODO_V2: 78872.576
-  response: 7E80562043B259C
-- expected_values:
-    PACIFICA_ODO_V2: 78880.768
-  response: 7E80562043B259D
-- expected_values:
-    PACIFICA_ODO_V2: 78888.96
-  response: 7E80562043B259E
-- expected_values:
-    PACIFICA_ODO_V2: 78897.152
-  response: 7E80562043B259F
-- expected_values:
-    PACIFICA_ODO_V2: 78905.344
-  response: 7E80562043B25A0
-- expected_values:
-    PACIFICA_ODO_V2: 78913.536
-  response: 7E80562043B25A1
+    PACIFICA_ODO_V2: 78938.112
+  response: 7E80562043B25A4

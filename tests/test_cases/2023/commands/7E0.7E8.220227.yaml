@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220227
 test_cases:
 - expected_values:
-    PACIFICA_FLI_INPUT: 50.58824
-  response: '7E80462022781'
+    PACIFICA_FLI_INPUT: 48.23529
+  response: 7E8046202277B
 - expected_values:
     PACIFICA_FLI_INPUT: 58.03922
   response: '7E80462022794'
