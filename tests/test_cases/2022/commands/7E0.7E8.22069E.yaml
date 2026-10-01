@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22069E
 test_cases:
 - expected_values:
-    CHRYSLER_VARIABLE_VLV_TIM_OIL_P: 0
+    PACIFICA_VARIABLE_VLV_TIM_OIL_P: 0
   response: 7E80462069E00
 - expected_values:
-    CHRYSLER_VARIABLE_VLV_TIM_OIL_P: 560
+    PACIFICA_VARIABLE_VLV_TIM_OIL_P: 560
   response: 7E80462069E8C

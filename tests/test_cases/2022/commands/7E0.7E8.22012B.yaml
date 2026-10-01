@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22012B
 test_cases:
 - expected_values:
-    CHRYSLER_CAT_MODEL_T: 87
+    PACIFICA_CAT_MODEL_T: 407
   response: 7E80562012B0197
 - expected_values:
-    CHRYSLER_CAT_MODEL_T: 191
+    PACIFICA_CAT_MODEL_T: 511
   response: 7E80562012B01FF
 - expected_values:
-    CHRYSLER_CAT_MODEL_T: -64
+    PACIFICA_CAT_MODEL_T: 512
   response: 7E80562012B0200
 - expected_values:
-    CHRYSLER_CAT_MODEL_T: -63
+    PACIFICA_CAT_MODEL_T: 769
   response: 7E80562012B0301
