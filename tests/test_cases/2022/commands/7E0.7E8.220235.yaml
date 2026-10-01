@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220235
 test_cases:
 - expected_values:
-    CHRYSLER_INJ_WIDTH_CYL_2: 0
+    PACIFICA_INJ_WIDTH_CYL_2: 0
   response: '7E80762023500000000'
 - expected_values:
-    CHRYSLER_INJ_WIDTH_CYL_2: 1.016
+    PACIFICA_INJ_WIDTH_CYL_2: 1.016
   response: 7E807620235000003F8
 - expected_values:
-    CHRYSLER_INJ_WIDTH_CYL_2: 10.152
+    PACIFICA_INJ_WIDTH_CYL_2: 10.152
   response: 7E807620235000027A8

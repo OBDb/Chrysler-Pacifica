@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220255
 test_cases:
 - expected_values:
-    CHRYSLER_FUEL_MASS_CYL_1: 0
+    PACIFICA_FUEL_MASS_CYL_1: 0
   response: '7E8056202550000'
 - expected_values:
-    CHRYSLER_FUEL_MASS_CYL_1: 15.98438
+    PACIFICA_FUEL_MASS_CYL_1: 15.98438
   response: 7E80562025503FF
 - expected_values:
-    CHRYSLER_FUEL_MASS_CYL_1: 40.34375
+    PACIFICA_FUEL_MASS_CYL_1: 40.34375
   response: 7E8056202550A16

@@ -1,29 +1,29 @@
 command_id: 7E0.7E8.220127
 test_cases:
 - expected_values:
-    CHRYSLER_AAT: 62.8
+    PACIFICA_AAT: 62.8
   response: '7E80462012751'
 - expected_values:
-    CHRYSLER_AAT: 64.6
+    PACIFICA_AAT: 64.6
   response: '7E80462012752'
 - expected_values:
-    CHRYSLER_AAT: 66.4
+    PACIFICA_AAT: 66.4
   response: '7E80462012753'
 - expected_values:
-    CHRYSLER_AAT: 68.2
+    PACIFICA_AAT: 68.2
   response: '7E80462012754'
 - expected_values:
-    CHRYSLER_AAT: 70
+    PACIFICA_AAT: 70
   response: '7E80462012755'
 - expected_values:
-    CHRYSLER_AAT: 71.8
+    PACIFICA_AAT: 71.8
   response: '7E80462012756'
 - expected_values:
-    CHRYSLER_AAT: 73.6
+    PACIFICA_AAT: 73.6
   response: '7E80462012757'
 - expected_values:
-    CHRYSLER_AAT: 75.4
+    PACIFICA_AAT: 75.4
   response: '7E80462012758'
 - expected_values:
-    CHRYSLER_AAT: 77.2
+    PACIFICA_AAT: 77.2
   response: '7E80462012759'

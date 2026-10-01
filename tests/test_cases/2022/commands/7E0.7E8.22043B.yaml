@@ -1,32 +1,32 @@
 command_id: 7E0.7E8.22043B
 test_cases:
 - expected_values:
-    CHRYSLER_ODO: 76873.728
+    PACIFICA_ODO_V2: 76873.728
   response: 7E80562043B24A8
 - expected_values:
-    CHRYSLER_ODO: 76881.92
+    PACIFICA_ODO_V2: 76881.92
   response: 7E80562043B24A9
 - expected_values:
-    CHRYSLER_ODO: 76890.112
+    PACIFICA_ODO_V2: 76890.112
   response: 7E80562043B24AA
 - expected_values:
-    CHRYSLER_ODO: 76898.304
+    PACIFICA_ODO_V2: 76898.304
   response: 7E80562043B24AB
 - expected_values:
-    CHRYSLER_ODO: 76906.496
+    PACIFICA_ODO_V2: 76906.496
   response: 7E80562043B24AC
 - expected_values:
-    CHRYSLER_ODO: 76914.688
+    PACIFICA_ODO_V2: 76914.688
   response: 7E80562043B24AD
 - expected_values:
-    CHRYSLER_ODO: 76922.88
+    PACIFICA_ODO_V2: 76922.88
   response: 7E80562043B24AE
 - expected_values:
-    CHRYSLER_ODO: 76931.072
+    PACIFICA_ODO_V2: 76931.072
   response: 7E80562043B24AF
 - expected_values:
-    CHRYSLER_ODO: 76939.264
+    PACIFICA_ODO_V2: 76939.264
   response: 7E80562043B24B0
 - expected_values:
-    CHRYSLER_ODO: 76947.456
+    PACIFICA_ODO_V2: 76947.456
   response: 7E80562043B24B1

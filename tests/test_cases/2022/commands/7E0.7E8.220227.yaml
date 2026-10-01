@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220227
 test_cases:
 - expected_values:
-    CHRYSLER_FLI_INPUT: 100
+    PACIFICA_FLI_INPUT: 69.80392
   response: 7E804620227B2
 - expected_values:
-    CHRYSLER_FLI_INPUT: 100
+    PACIFICA_FLI_INPUT: 76.07843
   response: 7E804620227C2
