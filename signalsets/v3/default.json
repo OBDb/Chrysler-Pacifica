@@ -85,7 +85,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "D2"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2024 },
   "signals": [
-    {"id": "PACIFICA_EOT_21D2", "path": "Engine", "fmt": {"bix": 56, "len": 8, "max": 191, "min": -64, "add": -64, "unit": "celsius" }, "name": "Engine oil temperature"}
+    {"id": "PACIFICA_EOT_21D2", "path": "Engine", "fmt": {"bix": 56, "len": 8, "max": 191, "min": -64, "add": -64, "nullmin": -64, "unit": "celsius" }, "name": "Engine oil temperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0109"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2024 },
   "signals": [
@@ -253,7 +253,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "12C9"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2024 },
   "signals": [
-    {"id": "PACIFICA_LOW_SIDE_ECT", "path": "Engine", "fmt": { "len": 8, "max": 191, "min": -64, "add": -64, "unit": "celsius" }, "name": "Low side coolant temperature"}
+    {"id": "PACIFICA_LOW_SIDE_ECT", "path": "Engine", "fmt": { "len": 8, "max": 191, "min": -64, "add": -64, "nullmin": -64, "unit": "celsius" }, "name": "Low side coolant temperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14B1"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2024 },
   "signals": [
@@ -261,7 +261,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14B3"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2024 },
   "signals": [
-    {"id": "PACIFICA_THROTTLE_INLET_AIR_T_RAW", "path": "Engine", "fmt": {"bix": 8, "len": 8, "max": 191, "min": -64, "add": -64, "unit": "celsius" }, "name": "Throttle inlet air temperature raw"}
+    {"id": "PACIFICA_THROTTLE_INLET_AIR_T_RAW", "path": "Engine", "fmt": {"bix": 8, "len": 8, "max": 191, "min": -64, "add": -64, "nullmin": -64, "unit": "celsius" }, "name": "Throttle inlet air temperature raw"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1737"}, "freq": 0.25, "dbgfilter": { "to": 2021, "from": 2024 },
   "signals": [
