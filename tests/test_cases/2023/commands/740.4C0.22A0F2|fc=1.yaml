@@ -55,6 +55,12 @@ test_cases:
     4C0100862A0F2535001
     4C02183DCA0F2535001
 - expected_values:
+    PACIFICA_TP_FR_740: 34.626
+    PACIFICA_TT_FR_740: 13
+  response: |-
+    4C0100862A0F2573F21
+    4C0210BDCA0F2573F21
+- expected_values:
     PACIFICA_TP_FR_740: 37.014
     PACIFICA_TT_FR_740: 52
   response: |-
