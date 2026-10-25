@@ -4,5 +4,5 @@ test_cases:
     PACIFICA_FLI_INPUT: 39.21569
   response: '7E80462022764'
 - expected_values:
-    PACIFICA_FLI_INPUT: 76.07843
-  response: 7E804620227C2
+    PACIFICA_FLI_INPUT: 76.86275
+  response: 7E804620227C4
