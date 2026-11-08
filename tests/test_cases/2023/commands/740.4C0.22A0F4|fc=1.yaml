@@ -38,6 +38,12 @@ test_cases:
     4C021C3DCA0F451473D
 - expected_values:
     PACIFICA_TP_RL_740: 33.83
+    PACIFICA_TT_RL_740: 11
+  response: |-
+    4C0100862A0F4553D34
+    4C0210BDDA0F4553D34
+- expected_values:
+    PACIFICA_TP_RL_740: 33.83
     PACIFICA_TT_RL_740: 29
   response: |-
     4C0100862A0F4554FF1
